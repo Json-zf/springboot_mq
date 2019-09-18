@@ -7,6 +7,7 @@ import java.util.Map;
 
 @Component
 public class ReciveMsg {
+    //增加注释
 
     @JmsListener(destination = "queue-zf")
     public void reciveMsg(String msg){
