@@ -18,7 +18,9 @@ public class SpringbootMqApplication {
     }
     
     //新增一个add方法
+    //&&&&&&&&&&&
     public void add(){
+        System.out.println("新增add方法");
     }
 
 }
