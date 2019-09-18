@@ -16,5 +16,9 @@ public class SpringbootMqApplication {
     public void test(){
         System.out.println("张峰你好");
     }
+    
+    //新增一个add方法
+    public void add(){
+    }
 
 }
